@@ -30,16 +30,16 @@
 ### 頁面預覽
 
 #### 會員填寫頁
-![填寫頁面](images/screenshot-1.png)
+![填寫頁面](src/main/webapp/IMAGE/index.png)
 
 #### 資料確認頁
-![確認頁面](images/screenshot-2.png)
+![確認頁面](src/main/webapp/IMAGE/check.png)
 
 #### 完成頁
-![送出完成](images/screenshot-3.png)
+![送出完成](src/main/webapp/IMAGE/finish.png)
 
 #### mySQL資料頁
-![資料頁](images/screenshot-4.png)
+![資料頁](src/main/webapp/IMAGE/mySQL.png)
 
 ### 使用說明
 1. 確保本地或遠端有安裝並啟動 MySQL，建立名為 `work` 的資料庫，並建立 `members` 資料表，欄位結構與 Member JavaBean 對應。
