@@ -21,10 +21,15 @@
 
 ## 專案結構
 /src/main/java/com/demo/controller/SubmitFormServlet.java # Servlet 控制器
+
 /src/main/java/com/demo/domain/Member.java # JavaBean 會員資料類別
+
 /webapp/index.jsp # 會員資料輸入表單
+
 /webapp/check.jsp # 會員資料確認頁面
+
 /webapp/finish.html # 送出完成頁面
+
 /webapp/style.css # 網頁樣式
 
 ## 頁面預覽
