@@ -35,16 +35,16 @@
 ## 頁面預覽
 
 ### 會員填寫頁
-![填寫頁面](src/main/webapp/IMAGE/index.png)
+![填寫頁面](https://github.com/WilliamHsieh615/member-management-system/blob/main/demo/index.png?raw=true)
 
 ### 資料確認頁
-![確認頁面](src/main/webapp/IMAGE/check.png)
+![確認頁面](https://github.com/WilliamHsieh615/member-management-system/blob/main/demo/check.png?raw=true)
 
 ### 完成頁
-![送出完成](src/main/webapp/IMAGE/finish.png)
+![送出完成](https://github.com/WilliamHsieh615/member-management-system/blob/main/demo/finish.png?raw=true)
 
 ### mySQL資料頁
-![資料頁](src/main/webapp/IMAGE/mySQL.png)
+![資料頁](https://github.com/WilliamHsieh615/member-management-system/blob/main/demo/mySQL.png?raw=true)
 
 ## 使用說明
 1. 確保本地或遠端有安裝並啟動 MySQL，建立名為 `work` 的資料庫，並建立 `members` 資料表，欄位結構與 Member JavaBean 對應。
